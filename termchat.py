@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-"""
-TermChat - A smart Terminal AI chatbot with multi-LLM provider support
-"""
 import os
 import sys
 from rich.console import Console
