@@ -1,4 +1,3 @@
-````markdown
 # TermChat: A Smart Terminal AI Chatbot with Multi-LLM Support
 
 A beautiful terminal-based AI chatbot using Python, the Rich library for UI formatting, and support for multiple LLM providers including Google Gemini, OpenRouter, OpenAI, Claude, Grok, DeepSeek, Qwen, and HuggingFace.
@@ -182,4 +181,3 @@ MIT
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-````
