@@ -1,4 +1,4 @@
-# TermChat: A Smart Terminal AI Chatbot with Multi-LLM Support
+## TermChat: A Smart Terminal AI Chatbot with Multi-LLM Support
 
 A beautiful terminal-based AI chatbot using Python, the Rich library for UI formatting, and support for multiple LLM providers including Google Gemini, OpenRouter, OpenAI, Claude, Grok, DeepSeek, Qwen, and HuggingFace.
 
@@ -26,7 +26,7 @@ A beautiful terminal-based AI chatbot using Python, the Rich library for UI form
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/termchat.git
+   git clone https://github.com/h-ravi/termchat.git
    cd termchat
    ```
 
